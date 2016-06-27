@@ -22,5 +22,12 @@ public class MarutiCar implements Automobile {
 		return "MAR 1";
 	}
 
+	public MarutiCar() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+
 }
 // commented
